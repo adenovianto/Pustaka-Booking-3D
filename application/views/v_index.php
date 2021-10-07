@@ -1,7 +1,7 @@
 <section>
 	<h1><?php echo $judul ?></h1>
 	<p>
-		Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo dolorum error nam accusantium iusto optio eum, beatae deleniti ut perferendis. Ducimus nisi error eveniet sunt.
-		Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo maxime quos id? Inventore voluptates possimus ducimus tempora voluptatem exercitationem ad fugiat, ea asperiores repellendus adipisci aliquid fugit magnam alias dolore aut, voluptatum tempore laudantium blanditiis fuga, eaque labore reiciendis doloremque veritatis? Debitis provident ullam molestias libero rerum asperiores eius. Deserunt natus veritatis, sunt quisquam dolor similique animi culpa nihil porro, numquam nisi quidem. Doloremque adipisci animi consequuntur ad. Nesciunt iste dignissimos illo, non aperiam nobis velit quas pariatur nostrum doloribus dolore necessitatibus, quo rem a nulla. Eum asperiores ut, quia sed blanditiis in, delectus reiciendis qui rem veritatis aspernatur et?
+		Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem est sit sint architecto labore facilis alias, similique nobis aliquam cupiditate commodi sunt consequuntur possimus! Quibusdam fugiat iusto excepturi rem fugit!
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis explicabo veniam dolores ut quibusdam molestias ullam rem libero ipsa enim incidunt esse quis fugit deserunt aliquid quam sequi, repellendus ex iste quos dolor. Cum deserunt dolor iusto officiis ut dolorem, at pariatur. Accusantium praesentium sed repudiandae minima veniam cumque amet beatae ut quam vero! Id laborum voluptatibus dolore aut a reprehenderit in rerum placeat. Tempore at animi dolorem. Modi sed eveniet repellendus fuga doloremque non itaque commodi voluptatem explicabo atque. Ratione sint hic labore quas magnam aliquid aspernatur itaque, sunt mollitia, explicabo ut quisquam commodi doloribus facilis officiis quo illo!
 	</p>
 </section>

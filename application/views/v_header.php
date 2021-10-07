@@ -16,7 +16,7 @@
             </hgroup>
             <nav>
                 <ul>
-                    <li><a href="<?php echo base_url() . 'index.php/Web' ?>">Home</a></li>
+                    <li><a href="<?php echo base_url() . 'index.php/Web/' ?>">Home</a></li>
                     <li><a href="<?php echo base_url() . 'index.php/Web/about' ?>">About</a></li>
                 </ul>
             </nav>
