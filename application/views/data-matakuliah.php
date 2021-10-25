@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title> Tampil Data Matakuliah</title>
+	<title>Tampil Data Matakuliah</title>
 </head>
 
 <body>
@@ -9,7 +9,7 @@
 		<table>
 			<tr>
 				<th colspan="3">
-					Tampil Data Matakuliah
+					Tampil Data Mata Kuliah
 				</th>
 			</tr>
 			<tr>
@@ -22,6 +22,7 @@
 				<th>:</th>
 				<td>
 					<?= $kode; ?>
+
 				</td>
 			</tr>
 			<tr>
@@ -29,6 +30,7 @@
 				<td>:</td>
 				<td>
 					<?= $nama; ?>
+
 				</td>
 			</tr>
 			<tr>
@@ -36,12 +38,11 @@
 				<td>:</td>
 				<td>
 					<?= $sks; ?>
+
 				</td>
 			</tr>
 			<tr>
-				<td colspan="3" align="center">
-					<a href="<?php = base_url('matakuliah'); ?>">Kembali</a>
-				</td>
+				<td colspan="3" align="center"> <a href="<?= base_url('matakuliah'); ?>">Kembali</a> </td>
 			</tr>
 		</table>
 	</center>
